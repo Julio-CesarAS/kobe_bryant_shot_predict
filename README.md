@@ -40,6 +40,6 @@ O objetivo desse estudo é aplicar técnicas de inteligência artificial para pr
 - Numpy
 - Matplotlib
 - Seaborn
-- Sklearn
+- Scikit-learn
 
 *Demais blibliotecas descritas no arquivo Requirement
