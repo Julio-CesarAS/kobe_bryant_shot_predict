@@ -31,7 +31,7 @@ O objetivo desse estudo é aplicar técnicas de inteligência artificial para pr
 - Interface para aplicação na base de produção 
 - Monitoramento do modelo
 
-## Principais Bibliotecas
+## Principais Bibliotecas e Ferramentas
 
 - MLFlow
 - Pycaret
@@ -41,5 +41,6 @@ O objetivo desse estudo é aplicar técnicas de inteligência artificial para pr
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- Shap
 
 *Demais blibliotecas descritas no arquivo Requirement
